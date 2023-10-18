@@ -11,7 +11,7 @@ package com.chg.javahelloworldpr;
 public class JavaHelloWorldPr {
 
     public static void main(String[] args) {
-        GreatingName gn=new GreatingName("Carlso");
+        GreatingName gn=new GreatingName("Carlos");
         System.out.println("Hello World! This is my name: "+gn.myname);
     }
 }
